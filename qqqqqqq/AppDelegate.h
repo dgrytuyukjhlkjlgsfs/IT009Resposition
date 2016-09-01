@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-//啊刚才饭卡是刚才发生的这个 v 历史的规律公司的；旅馆；；电话 v 苏打绿；sdgv
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
